@@ -11,6 +11,6 @@ Episode 0: 12/26/14
 Episode 1: 12/26/14
 (Did some code cleanup, separating things into different classes instead of all jumbled up).
 
-Hi I'm John
+
 
 
