@@ -7,6 +7,10 @@ the Linux environment while the tutorial online covers the Windows
 environment.
 
 Episode 0: 12/26/14
+
 Episode 1: 12/26/14
+(Did some code cleanup, separating things into different classes instead of all jumbled up).
+
+
 
 
