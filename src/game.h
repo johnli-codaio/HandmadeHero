@@ -2,12 +2,15 @@
 #define GAME_H_
 
 union SDL_Event;
+struct SDL_Window;
 
 struct Game {
   Game();
   ~Game();
 
   private:
-    void HandleEvent(SDL_Event * event);
+    bool HandleEvent(SDL_Event * event);
+    void eventLoop();
+    void renderWindow(SDL_Window * window);
   };
 #endif // GAME_H_

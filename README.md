@@ -11,6 +11,7 @@ Episode 0: 12/26/14
 Episode 1: 12/26/14
 (Did some code cleanup, separating things into different classes instead of all jumbled up).
 
-
+Episode 2: 12/27/14
+Finished with the SDL window. Put that into the game.cpp.
 
 
